@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:showIn="navigation_view"
+    >
+    <group android:checkableBehavior="single">
+        <item android:title="Exp - 1"
+            android:icon="@drawable/cheesecake"
+            android:id="@+id/exp1"/>
+
+        <item android:title="Exp - 2"
+            android:icon="@drawable/cupcake"
+            android:id="@+id/exp2"/>
+        <item android:title="Exp - 3"
+            android:icon="@drawable/icecream"
+            android:id="@+id/exp3"/>
+        <item android:title="Exp - 4"
+            android:icon="@drawable/iceream"
+            android:id="@+id/exp4"/>
+        <item android:title="Exp - 5"
+            android:icon="@drawable/strawberry"
+            android:id="@+id/exp5"/>
+        <item android:title="Exp - 6"
+            android:icon="@drawable/cheesecake"
+            android:id="@+id/exp6"/>
+        <item android:title="Exp - 7"
+            android:icon="@drawable/cupcake"
+            android:id="@+id/exp7"/>
+        <item android:title="Exp - 8"
+            android:icon="@drawable/iceream"
+            android:id="@+id/exp8"/>
+        <item android:title="Exp - 9"
+            android:icon="@drawable/strawberry"
+            android:id="@+id/exp9"/>
+
+
+    </group>
+
+
+</menu>
