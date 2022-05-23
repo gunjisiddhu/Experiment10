@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="25dp"
+    android:layout_marginBottom="10dp"
+    android:background="#E1D4FD"
+
+    tools:context=".Fragment1">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="14dp"
+        android:hint="Name"
+        android:singleLine="true"
+        android:nextFocusForward="@+id/branch"
+        android:id="@+id/name"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="14dp"
+        android:hint="Branch"
+        android:singleLine="true"
+        android:nextFocusForward="@+id/year"
+        android:id="@+id/branch"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="14dp"
+        android:hint="Year"
+        android:singleLine="true"
+        android:nextFocusForward="@+id/review"
+        android:id="@+id/year"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="14dp"
+        android:hint="Review"
+        android:imeOptions="actionNext"
+        android:singleLine="true"
+        android:id="@+id/review"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="0.71"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="SUBMIT"
+        android:id="@+id/frag1_submit"
+        />
+
+
+
+</LinearLayout>

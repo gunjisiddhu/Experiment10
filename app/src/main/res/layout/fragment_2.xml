@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="25dp"
+    android:layout_marginTop="10dp"
+    android:background="#D4F7FD"
+    tools:context=".Fragment1">
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="20dp"
+        android:singleLine="true"
+        android:nextFocusForward="@+id/branch"
+        android:id="@+id/nameDisplay"/>
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="20dp"
+        android:singleLine="true"
+        android:nextFocusForward="@+id/year"
+        android:id="@+id/branchDisplay"/>
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="20dp"
+        android:singleLine="true"
+        android:nextFocusForward="@+id/review"
+        android:id="@+id/yearDisplay"/>
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="20dp"
+        android:imeOptions="actionNext"
+        android:singleLine="true"
+        android:id="@+id/reviewDisplay"/>
+
+
+
+
+
+</LinearLayout>

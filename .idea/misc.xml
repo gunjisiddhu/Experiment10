@@ -3,8 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Projects/Experiment10/app/src/main/res/drawable-v24/tickmark.xml" value="0.1795" />
+        <entry key="..\:/Android Projects/Experiment10/app/src/main/res/layout/activity_calculator.xml" value="0.24010416666666667" />
+        <entry key="..\:/Android Projects/Experiment10/app/src/main/res/layout/activity_dialog_box_open.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/Experiment10/app/src/main/res/layout/activity_display.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/Experiment10/app/src/main/res/layout/activity_experiment3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/Experiment10/app/src/main/res/layout/activity_form.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/Experiment10/app/src/main/res/layout/activity_form_display.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/Experiment10/app/src/main/res/layout/activity_mail.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Projects/Experiment10/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/Experiment10/app/src/main/res/layout/demo.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Projects/Experiment10/app/src/main/res/layout/drawerlayourheader.xml" value="0.253125" />
+        <entry key="..\:/Android Projects/Experiment10/app/src/main/res/layout/fragment_1.xml" value="0.1765625" />
+        <entry key="..\:/Android Projects/Experiment10/app/src/main/res/layout/fragment_2.xml" value="0.11041666666666666" />
+        <entry key="..\:/Android Projects/Experiment10/app/src/main/res/layout/item.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Projects/Experiment10/app/src/main/res/menu/drawer_menu.xml" value="0.253125" />
       </map>
     </option>

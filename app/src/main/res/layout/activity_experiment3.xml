@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="20dp"
+    tools:context=".Experiment_3">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="460dp"
+        android:id="@+id/imagecap"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/photobutton"
+        android:text="Take Photo"/>
+
+
+
+    <Button
+        android:id="@+id/formButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Form"/>
+
+    <Button
+        android:id="@+id/email_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Email"/>
+
+
+</LinearLayout>
